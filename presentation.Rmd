@@ -1283,15 +1283,15 @@ name: landings
 
 # Landings
 
-```{r, results='asis', echo=FALSE}
-# knitr::include_url("C:/Users/Sebbi Kankondi/Documents/National Marine Aquarium/ministry_presentations/images/mfmr_landings.html")
+```{r echo=FALSE}
+knitr::include_url("C:/Users/Sebbi Kankondi/Documents/National Marine Aquarium/ministry_presentations/images/mfmr_landings.html")
 
 
 # <iframe src="https://rpubs.com/sebbi/1037268" width="100%" height="500"></iframe>
 # 
   
-cat("<iframe src='https://rpubs.com/sebbi/1037268' width='100%' height='500'></iframe>")
-
+# cat("<iframe src='https://rpubs.com/sebbi/1037268' width='100%' height='500'></iframe>")
+# 
 
 
 ```
